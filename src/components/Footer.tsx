@@ -9,6 +9,7 @@ export default function Footer() {
         <p className="my-3">
             {contact.address}
         </p>
+        
         <p className="my-3">
             {contact.phoneNo}
         </p>
